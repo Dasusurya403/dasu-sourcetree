@@ -17,3 +17,6 @@ this is the setteings used in the style of sourcetree
 
 
 this is another commit i m pushing
+
+
+this is 3rd pushing of commiting to the git
