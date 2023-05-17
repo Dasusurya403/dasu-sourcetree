@@ -8,7 +8,7 @@ public static void main(String args[]) {
     int number = new Scanner(System.in).nextInt();
     for(int i=1; i<=number; i++){
         System.out.print(fibonacci2(i) +" ");
-    }    
+    }    hgdfytfuyfuyf
 }
 
 
