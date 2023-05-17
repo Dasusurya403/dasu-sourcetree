@@ -10,3 +10,6 @@ public static void main(String args[]) {
         System.out.print(fibonacci2(i) +" ");
     }    
 }
+
+
+this is the setteings used in the style of sourcetree
